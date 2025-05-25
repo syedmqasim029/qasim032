@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qasim032&label=Profile%20views&color=0e75b6&style=flat" alt="qasim032" /> </p>
 
-- 🔭 I’m currently working on **Java 2D Game**
+- 🔭 I’m currently working on **Python Projects**
 
-- 🌱 I’m currently learning **Java, Python**
+- 🌱 I’m currently learning **DSA, Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/qasim032](https://github.com/qasim032)
 
