@@ -12,7 +12,8 @@
 
 - 🌱 I’m currently learning **DSA, Data Science**
 
-- 👨‍💻 All of my projects are available at [https://github.com/qasim032](https://github.com/qasim032)
+- 👨‍💻 All of my projects are available at [github](https://github.com/syedmqasim029)
+- My personal portfolio:                  [portfolio](https://syedmqasim029.github.io)
 
 - 📫 How to reach me **syedmqasim0321@gmail.com**
 
